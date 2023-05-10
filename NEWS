@@ -1,0 +1,13 @@
+GNU Emacs url-http-oauth-demo NEWS -- history of user-visible changes.
+
+* New in url-http-oauth-demo 1.0.2
+
+Released 2023-05-09
+
+** Use json-parse-buffer.
+
+* New in url-http-oauth-demo 1.0.1
+
+Released 2023-05-08
+
+** Demonstrate how to use the new url-http-oauth library.
